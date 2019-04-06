@@ -7,8 +7,10 @@
     </head>
 
     <body>
-    <?php include ('header.php'); ?>
-    <h1>Main-Content</h1>
-    <?php include ('footer.php'); ?>
+        <?php include ('header.php'); ?>
+            <section>
+                <h1>Main-Content</h1>
+            </section>   
+        <?php include ('footer.php'); ?>
     </body>
 </html>
